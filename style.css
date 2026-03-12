@@ -1,0 +1,59 @@
+body {
+    background-color: lavenderblush;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    padding: 0%;
+    margin-bottom: 0%;
+
+}
+
+h5 {
+padding: 0;
+margin: 0%;
+    text-align: center;
+}
+h6{
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+.smalltext{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.workexperience>ul>li ul {
+    padding-left: 0.5cm;
+    list-style-type: disc;
+}
+
+/* .edu {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 100%;
+} */
+
+/* .education span,
+.edu span {
+    font-family: 'Source Sans Pro', sans-serif;
+} */
+
+
+.education-list {
+    display: flex;
+    justify-content: space-between;
+}
+.education-list1 {
+    display: flex;
+    justify-content: space-between;
+}
